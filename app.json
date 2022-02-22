@@ -42,7 +42,7 @@
     },
     "ALIVE_NAME": {
 
-      "description": "Enter your Telegram Username Ex. @YourUsername",
+      "description": "Enter your Telegram Username as Ex. @YourUsername",
 
       "value": ""
     },
