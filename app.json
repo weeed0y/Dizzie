@@ -1,7 +1,7 @@
 {
-  "name": "TechnoAyanBoT",
-  "description": "Extended Version of Uniborg By @TechnoAyanOfficial",
-  "logo": "https://telegra.ph/file/c40c645eb602e192ec442.jpg",
+  "name": "Dizzie",
+  "description": "Advanced BOT that is able to manipulate even humans :D",
+  "logo": "https://images6.fanpop.com/image/photos/41800000/Rias-Gremory-High-School-DxD-rias1297-41834764-394-580.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/TechnoAyanBoT",
+  "repository": "https://github.com/weeed0y/Dizzie",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
